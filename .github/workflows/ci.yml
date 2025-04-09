@@ -21,7 +21,7 @@ jobs:
 
     - name: Generate Allure Report
       run: |
-        npm run report
+        npm run report:ci
         mkdir -p artifacts
         cp -r allure-report/* artifacts/
 
