@@ -2,6 +2,13 @@
 
 Este projeto realiza testes automatizados para a API RESTful [Serverest](https://serverest.dev/#/), cobrindo 100% dos endpoints de gerenciamento de usuários com autenticação via JWT, incluindo criação, leitura, atualização e exclusão.
 
+![Node.js](https://img.shields.io/badge/node.js-18.x-green.svg)
+![Mocha](https://img.shields.io/badge/tested%20with-mocha-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+![CI](https://github.com/juniohenrique/opah-api/actions/workflows/ci.yml/badge.svg)
+
+
 ---
 
 ## Tecnologias utilizadas
