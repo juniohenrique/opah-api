@@ -38,7 +38,7 @@ Este projeto realiza testes automatizados para a API RESTful [Serverest](https:/
 
 ---
 
-## ⚙️ Como configurar o ambiente
+## Como configurar o ambiente
 
 1. **Clone o repositório**
 
