@@ -84,6 +84,9 @@ npm run report
 -  Atualização de usuário (com e sem autenticação)
 -  Exclusão de usuário (com e sem autenticação)
 
+Mais detalhes sobre os cenários cobertos estão disponíveis no arquivo [TEST_CASE.md](./TEST_CASE.md).
+
+
 ---
 
 ##  CI com GitHub Actions
